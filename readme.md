@@ -9,6 +9,7 @@
 ### This was originally made for the [Indie Tales Game Jam](https://itch.io/jam/indie-tales-jam/rate/1122188)
 
 ## How to Install
+### [Download pcBuild2.zip](https://github.com/Stephen-Schuster/Dorm-Disaster/raw/main/pcBuild2.zip)
 
 ## Controls
 ### W - Move forward
